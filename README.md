@@ -1,2 +1,2 @@
 # HW-Seminar-2-Task-10
-I'm learning C# basics.
+This code solves the issue with separation of the second digit from the three digit number.
